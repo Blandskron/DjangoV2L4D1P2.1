@@ -79,7 +79,7 @@ LOGIN_REDIRECT_URL = '/profile/'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'perfilesdb',
+        'NAME': 'perfiles_db',
         'USER': 'postgres',
         'PASSWORD': 'admin',
         'HOST': 'localhost',
